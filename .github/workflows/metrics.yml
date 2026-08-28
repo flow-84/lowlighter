@@ -26,15 +26,6 @@ jobs:
           plugin_languages_colors: github
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 14
-          plugin_activity_visibility: all
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
           plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
